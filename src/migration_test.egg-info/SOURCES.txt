@@ -1,0 +1,10 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/migration_test/__init__.py
+src/migration_test/basics.py
+src/migration_test.egg-info/PKG-INFO
+src/migration_test.egg-info/SOURCES.txt
+src/migration_test.egg-info/dependency_links.txt
+src/migration_test.egg-info/requires.txt
+src/migration_test.egg-info/top_level.txt

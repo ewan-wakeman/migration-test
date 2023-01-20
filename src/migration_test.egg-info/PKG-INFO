@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: migration-test
+Version: 0.0.0
+Summary: A quick test package to check migration of large repositories between git providers
+Author: Ewan Wakeman
+Author-email: ewan.wakeman@nhs.net
